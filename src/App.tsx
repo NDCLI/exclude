@@ -33,7 +33,7 @@ function App() {
     <>
       <div className="loader"></div>
       <h1>Trang web đã chuyển địa chỉ!</h1>
-      <p>Đang chuyển hướng bạn đến hệ thống Apps Hub.</p>
+      <p>Đang chuyển hướng.</p>
       <a 
         href="https://cvattool.vercel.app/" 
         className="redirect-btn"
